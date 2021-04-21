@@ -454,11 +454,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arthu\\workspace\\DIO\\infected\\infected.csproj",
+      "projectUniqueName": "C:\\Users\\arthu\\workspace\\DIO\\Projeto-Infected\\infected.csproj",
       "projectName": "infected",
-      "projectPath": "C:\\Users\\arthu\\workspace\\DIO\\infected\\infected.csproj",
+      "projectPath": "C:\\Users\\arthu\\workspace\\DIO\\Projeto-Infected\\infected.csproj",
       "packagesPath": "C:\\Users\\arthu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arthu\\workspace\\DIO\\infected\\obj\\",
+      "outputPath": "C:\\Users\\arthu\\workspace\\DIO\\Projeto-Infected\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\arthu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -473,6 +473,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -484,6 +485,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "MongoDB.Driver": {
             "target": "Package",
@@ -508,7 +510,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

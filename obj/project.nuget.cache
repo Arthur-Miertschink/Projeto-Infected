@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oOACYpu+LIyO/T1O2zmMk7eooKYTH7b7/coysZrxVHIiisLCf+AAECtzKUEf5WTV/+dlGu2QZ9KxAqpyseT1nw==",
+  "dgSpecHash": "5chnWAtD6Fqm/I7xwZjkae3VpZO0icvP3Gtt4K6uzcbOjNzealuax+Z04jJfC+s47O7pYCNAFooxF56rEI1slg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\arthu\\workspace\\DIO\\infected\\infected.csproj",
+  "projectFilePath": "C:\\Users\\arthu\\workspace\\DIO\\Projeto-Infected\\infected.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arthu\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
     "C:\\Users\\arthu\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
